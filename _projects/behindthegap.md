@@ -40,7 +40,7 @@ I chose **Virtual Reality as a development framework** with which it was possibl
 
 ![](/images/behindthegap/hero.jpg)
 
-In total, I designed four audio-visual interventions including directional audio and light illusions, as well as visual obstructions. A study with a sample size of 20 was conducted, measuring the impression of train origin direction (Where do you think the train is coming from?) and the response time (When do you see the train?). Here are some gifs of the interventions, however, please have a look at the report to find out more.
+In total, I designed four audio-visual interventions including **directional audio and light illusions, as well as visual obstructions**. A study with a sample size of 20 was conducted, measuring the impression of train origin direction (Where do you think the train is coming from?) and the response time (When do you see the train?). Here are some gifs of the interventions, however, **please have a look at the project report to find out more**.
 
 <div class="gallery" data-columns="2">
 	<img src="/images/behindthegap/S1Gif.gif" />
