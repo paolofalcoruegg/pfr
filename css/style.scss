@@ -192,14 +192,19 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
     letter-spacing: 1px;
     text-transform: uppercase;
     font-weight: 500;
-    color: #6C7A89;
-    margin: 15px 0px;
+    color: #AE9F9E;
+    margin: 15px 0px 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
 }
 
 .tag-custom span {
     background-color: #FED136;
+    margin-top: 5px;
     margin-right: 5px;
     padding: 10px 10px;
+    white-space: nowrap;
 }
 
 
