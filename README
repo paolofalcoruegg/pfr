@@ -1,7 +1,12 @@
-21/05/2019
-
-Tried to implement major things / minor things, but didn't manage. Going to finish the webpage as normal first.
-
 TODO:
 
 Look at titles and subtitles and find out what they do in like weird ones.
+
+- Font rendering on mobile
+- Minor projects?
+- Tags stack / margins (DONE IN SS19)
+- Spellcheck
+- Update SEO (jekyll plugin for that)
+- Make video for SPR available
+- Add ARENA?
+- Add Repository or Report etc. using the button technique and front matter :)
