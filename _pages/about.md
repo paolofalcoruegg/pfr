@@ -1,6 +1,6 @@
 ---
 title: Paolo Falco Rüegg
-subtitle: Tech developer with a passion for XR, interaction design and enginnering, and product development
+subtitle: Tech developer with a passion for XR, interaction design and product development
 description:
 featured_image: /images/about/portrait.jpg
 ---
