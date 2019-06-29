@@ -7,7 +7,7 @@ featured_image: '/images/behindthegap/hero.jpg'
 tags: [VR, Unity, Research]
 ---
 
-<iframe src="https://player.vimeo.com/video/344584955" width="640" height="279" frameborder="0" allow="autoplay; fullscreen" loop=1 allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/344584955?loop=1" width="640" height="279" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 *Note: This is largely adapted from the project report that you can find [here](https://www.github.com/pa17/spr).*
 
