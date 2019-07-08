@@ -69,7 +69,7 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet">'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Raleway:300,400" rel="stylesheet">'
   title_font: '"Raleway", light'
   body_font: '"Raleway", sans-serif'
   regular_weight: 300
