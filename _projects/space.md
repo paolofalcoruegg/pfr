@@ -7,6 +7,7 @@ featured_image: '/images/space/hero.jpg'
 tags: [Game Dev, Medtech, Unity]
 ---
 
+<img src='/images/space/hero.jpg' style='display:none' />
 <iframe width="1526" height="682" src="https://www.youtube.com/embed/4vHmGydFj8g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Please check out the project report, structure and code base on the GitHub repository <a href="https://github.com/pa17/hcard/">here </a>.*

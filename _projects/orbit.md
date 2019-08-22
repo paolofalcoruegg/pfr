@@ -7,6 +7,7 @@ featured_image: '/images/orbit/hero.png'
 tags: [CEO, Hardware Dev, App Dev]
 ---
 
+<img src='/images/orbit/hero.png' style='display:none' />
 <iframe src="https://player.vimeo.com/video/337293634" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 OrBit is a **motion-sensing device for musicians and performers**. It bridges the gap between acoustic and digital music by **connecting you to your favourite digital effects and sounds**. Reverb, delay, pitch harmonisers, vocoders, all controlled with your movements.

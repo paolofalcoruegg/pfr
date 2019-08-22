@@ -7,6 +7,7 @@ featured_image: '/images/finwave/hero.jpg'
 tags: [Hardware, Robotics]
 ---
 
+<img src='/images/finwave/hero.jpg' style='display:none' />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fRNq55EbnZc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The marine planarian, cuttlefish and Nile perch have one thing in common: in order to propel themselves, they use their fins to generate a continuous wave, which advances along their entire length. With this so-called undulating fin movement, the **BionicFinWave manoeuvres through a pipe system made of acrylic glass**. 
