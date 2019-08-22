@@ -7,8 +7,6 @@ featured_image: '/images/chess/hero.png'
 tags: [Robotics, Machine Vision]
 ---
 
-<img src=”/images/chess/hero.png style=”display:none” />
-
 <iframe width="560" height="315" src="https://player.vimeo.com/video/291377091" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 *Please check out code base on the GitHub repository <a href="https://github.com/nebbles/DE3-ROB1-CHESS">here </a>.*
