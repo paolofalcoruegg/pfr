@@ -3,7 +3,7 @@ title: 'Bionic Soft Hand'
 subtitle: 'Sensitive robot hand with artifical intelligence'
 date: 2019-06-01 00:00:00
 description: Placement
-featured_image: '/images/softhand/hero.jpg'
+featured_image: '/images/behindthegap/hero.jpg'
 tags: [Sensor Systems, Interaction, Wearables]
 ---
 
