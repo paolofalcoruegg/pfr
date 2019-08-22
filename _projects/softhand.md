@@ -7,7 +7,6 @@ featured_image: '/images/softhand/hero.jpg'
 tags: [Sensor Systems, Interaction, Wearables]
 ---
 
-<img src='/images/softhand/hero.jpg' style='display:none' />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5e0F14IRxVc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > "Whether grasping, holding or turning, touching, typing or pressing – in everyday life, we use our hands for the most diverse tasks. The human hand is a true miracle of nature. What could be more logical than equipping robots in collaborative working spaces with a gripper that is based on this natural model and can learn through artificial intelligence to solve a wide variety of gripping and turning tasks?"

@@ -7,7 +7,6 @@ featured_image: '/images/sio/hero.jpg'
 tags: [Interaction Design, Hardware]
 ---
 
-<img src='/images/sio/hero.jpg' style='display:none' />
 <iframe src="https://player.vimeo.com/video/291379694" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 **Robots have the potential to solve big problems.** They already assemble cars and explore planets far away, but they are usually kept away from us. What keeps robots from helping you clean your dishes or carry the moving boxes? It is the fact that **they do not fully understand their environment**. Usually dependent on a single vision system, they do not know where you are, which inhibits intuitive interaction and and makes them **potentially harmful**. ​​​​​​
