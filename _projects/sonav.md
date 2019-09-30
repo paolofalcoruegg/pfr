@@ -3,11 +3,11 @@ title: 'Sonav'
 subtitle: 'Rethinking urban navigation using spatial audio'
 date: 2019-06-01 00:00:00
 description: 
-featured_image: '/images/sonav/hero.png'
+featured_image: '/images/sonav/hero.jpg'
 tags: [Work in progres, App Dev, UX Design, Unity]
 ---
 
-<img src="/images/sonav/1.png" style="width: 300px"/>
+<img src="/images/sonav/1.jpg" style="width: 300px"/>
 
 Whenever we visit a new place, we rely on somebody or something to tell us how to get there. Long gone are the days in which we used to ask people for directions; **our smartphones have taken over**. Nowadays, urban navigation happens almost exclusively through the use of location-based maps like Google Maps and so on. There are two major issues with the overreliance on visual maps in urban navigation:
 
