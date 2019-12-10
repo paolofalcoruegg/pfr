@@ -13,6 +13,6 @@ I met Shey (sosafresh.com) at the *Queen Elisabeth Prize for Engineering* awards
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iQEgXfJW2CM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I worked mainly on **content creation for their upcoming Kickstarter campaign**, creating animations, clips and (video / VR) renders. Furthermore, I worked with their **app for Vive and Oculus**, which allows for an extremely immersive 3D creation experience, and dealt with feature requests from user testing. This was pretty early in my studies and I did not have the skills back then to work on the core functionality. Instead, I got some valuable insights into the field of VR, familiarised myself with Unity, and helped with launching the campaign. 
+On the one hand, I worked on **content creation for their upcoming Kickstarter campaign**, creating animations, clips and (video / VR) renders. On the other hand, I was helping with implementing the 3D user interface and the physical gestures that allowed users to control their immersive software. The resulting product is an **app for Vive and Oculus**, which allows for an extremely immersive 3D creation experience. Over the course of the internship I got some valuable insights into the field of VR, was able to produce first work with Unity, and helped with launching the campaign. 
 
 ![](/images/gravity/1.jpg)
