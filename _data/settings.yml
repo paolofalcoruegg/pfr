@@ -162,12 +162,13 @@ advanced_settings:
   ajax_loading: true
   analytics_code: "
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src='https://www.googletagmanager.com/gtag/js?id=UA-141723598-1'></script>
+    <script async src='https://www.googletagmanager.com/gtag/js?id=UA-169819517-1'></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      gtag('config', 'UA-141723598-1');
+
+      gtag('config', 'UA-169819517-1');
     </script>
   "
   # Some CSS needed to be smart; site-title-custom (_header.scss) as well as border-bottom and text-transform
