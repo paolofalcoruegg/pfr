@@ -1,6 +1,6 @@
 ---
 title: 'OrBit by BitLabs'
-subtitle: 'Turning your motion into musical expression'
+subtitle: 'Turning motion into musical expression'
 date: 2019-06-11 00:00:00
 description: 
 featured_image: '/images/orbit/hero.png'
