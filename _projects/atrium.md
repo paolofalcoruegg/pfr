@@ -3,9 +3,11 @@ title: 'Atrium'
 subtitle: 'Exploring digital ways of collaboration in response to COVID-19'
 date: 2021-01-01 00:00:00
 description: Job
-featured_image: '/images/atrium/hero.jpg'
+featured_image: '/images/atrium/hero_alt.jpg'
 tags: [Frontend, UX, App Dev]
 ---
+
+![](/images/atrium/hero.jpg)
 
 COVID-19 has radically impacted the way we exchange knowledge and form social connections. During the first wave of the pandemic, the global community witnessed an unprecedented rise in demand for digital collaboration platforms. While Zoom and co have become ubiquitous, new solutions were also needed for larger-scale events where multiple conversations happen at the same time. In response to the pandemic, we developed a 3D web platform where workshops, exhibitions, conferences and other interactive events could take place.
 
