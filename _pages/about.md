@@ -1,6 +1,6 @@
 ---
 title: Paolo Falco Rüegg
-subtitle: I am a product and software developer passionate about interaction design, XR and innovation. I prototype products and services through a unique blend of design thinking and technical knowledge.
+subtitle: I create physical and digital tools, from concept to implementation – as a software developer, product designer and maker. I am interested in human-centred innovation and creating products that help people achieve a task instead of glueing them to the screen.
 description:
 featured_image: /images/about/portrait.jpg
 ---
