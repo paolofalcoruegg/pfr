@@ -1,7 +1,7 @@
 ---
 title: 'Atrium'
 subtitle: 'Exploring digital ways of collaboration in response to COVID-19'
-date: 2021-01-01 00:00:00
+date: 2017-01-01 00:00:00
 description: Job
 featured_image: '/images/atrium/hero_alt.jpg'
 tags: [Frontend, UX, App Dev]

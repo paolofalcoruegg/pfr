@@ -13,6 +13,6 @@ You can find my CV [here]({{ site.url }}/assets/CV.pdf)!
 
 ## Contact 
 
-Questions, jobs, keynotes, anything else? Drop me a line! I will try to get back to you as soon as possible. ***References are available on request.***
+Questions, jobs, keynotes, anything else? Drop me a line! I will try to get back to you as soon as possible.
 
 {% include contact-form.html %}
