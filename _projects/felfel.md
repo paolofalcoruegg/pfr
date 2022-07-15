@@ -9,7 +9,7 @@ tags: [Product Development, UX, Hardware, Product Design, Interaction Design, Fr
 
 ![](/images/felfel/1.jpg)
 
-FELFEL is my latest attempt at a steady job. I got the job there as a Product Owner for User Experience – read on to understand what this means. Shifting from development into a product role made sense for me, as I got fed up with having no say in what I was developing and not being given time to formulate the why. In a sense, this step moved me closer again to the creative part of studies that I enjoyed a lot.
+FELFEL offered me a job as a Product Owner for User Experience – read on to understand what this means. Shifting from development into a product role made sense for me, as I got fed up with having no say in what I was developing and not being given time to formulate the why. In a sense, this step moved me closer again to the creative part of studies that I enjoyed a lot.
 
 On top of that, I wanted to get back to a tangible product – something I can touch and interact with. In short, I found the mix of technology, interaction design and user-centredness very interesting. Finally, I liked that the actual product that our customers know us for is food and not technology. But enough about that...
 
