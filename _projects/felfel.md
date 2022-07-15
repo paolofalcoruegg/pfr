@@ -2,7 +2,7 @@
 title: 'FELFEL'
 subtitle: 'A vending machine based on trust – with freshly prepared, locally sourced food'
 date: 2021-08-01 00:00:00
-description: Job
+description: Job 
 featured_image: '/images/felfel/hero.jpg'
 tags: [Product Development, UX, Hardware, Product Design, Interaction Design, Frontend]
 ---
