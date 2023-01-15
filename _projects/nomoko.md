@@ -22,3 +22,9 @@ This is the point where I start to come into play. When building a product, one 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/635061368" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 Based on our market validations, amongst others, Nomoko then decided to venture into the PropTech space. We started conceptualising the platform, which you can find [here](https://platform.nomoko.world/), and has evolved a lot since I left. I wish them all the best for the future!
+
+<div class="gallery" data-columns="3">
+	<img src="/images/nomoko/1.jpg" />
+    <img src="/images/nomoko/2.jpg" />
+    <img src="/images/nomoko/3.jpg" />
+</div>

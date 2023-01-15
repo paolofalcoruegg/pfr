@@ -37,7 +37,7 @@ Some of my highlights at FELFEL:
 * Launching Gavetti, a completely new coffee service
 * Acting as a Product Owner for UX topics and guiding our talented Tech team in what to develop next
 
-As I am still working at FELFEL, here are some (unsorted and random) impressions in a gallery.
+As I am still working at FELFEL, here are some (unsorted and random) impressions in a gallery. This can take a while to load...
 
 <div class="gallery" data-columns="3">
 	<img src="/images/felfel/1.jpg" />

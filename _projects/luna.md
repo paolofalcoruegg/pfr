@@ -17,6 +17,14 @@ The proposed service provides a platform that connects users to food vans. The c
 
 This was a very pure, user-centred design project. There was almost no development apart from the interaction prototypes; instead, we did huge amounts of user research and tried to nail the service offering.
 
+<div class="gallery" data-columns="3">
+	<img src="/images/luna/1.png" />
+    <img src="/images/luna/2.png" />
+    <img src="/images/luna/3.png" />
+    <img src="/images/luna/4.png" />
+    <img src="/images/luna/5.png" />
+</div>
+
 <div style="text-align: center; margin-top: 40px">
     <iframe class="scribd_iframe_embed" title="Luna Report" src="https://www.scribd.com/embeds/428242427/content?start_page=1&view_mode=scroll&access_key=key-rWuIIDhDfc1yTkd7MvEM&show_recommendations=false" data-auto-height="true" data-aspect-ratio="0.7074509803921568" scrolling="no" id="doc_83489" width="960px" height="900px" frameborder="0"></iframe><script type="text/javascript">(function() { var scribd = document.createElement("script"); scribd.type = "text/javascript"; scribd.async = true; scribd.src = "https://www.scribd.com/javascripts/embed_code/inject.js"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(scribd, s); })();</script>
 </div>
