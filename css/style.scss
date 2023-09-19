@@ -159,8 +159,10 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 
 .menu__list__item__link {
     text-transform: uppercase;
-    
+    padding-left: 20px;
+
     @include mq(tabletp) {
+        padding-left: 0px;
         border-bottom: 1px solid;
     }
 }
