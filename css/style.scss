@@ -209,4 +209,31 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
     white-space: nowrap;
 }
 
+.about-companies-container {
+    margin-top: 40px;
+    overflow: hidden;
+}
 
+.about-companies {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24px;
+    width: 100%; /* Full width of the browser */
+    animation: scroll 40s infinite linear alternate; /* Adjust the duration as needed */
+    filter: grayscale(100%);
+    > img {
+        height: 64px;
+        mix-blend-mode: multiply;
+    }
+}
+
+@keyframes scroll {
+    0% {
+        transform: translateX(0%);
+    }
+    100% {
+        transform: translateX(-1099px);
+    }
+}
