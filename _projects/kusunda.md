@@ -1,6 +1,6 @@
 ---
 title: 'Kusunda'
-subtitle: 'VR documentary highlighting the Kusunda language'
+subtitle: 'A VR documentary highlighting the Kusunda language'
 date: 2020-06-01 00:00:00
 description: Volunteering
 featured_image: '/images/kusunda/hero.png'

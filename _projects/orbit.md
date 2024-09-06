@@ -1,7 +1,7 @@
 ---
 title: 'OrBit by BitLabs'
 subtitle: 'Turning motion into musical expression'
-date: 2019-06-11 00:00:00
+date: 2017-06-11 00:00:00
 description: 
 featured_image: '/images/orbit/hero.png'
 tags: [App Development, Hardware Development, Enterprise]
@@ -14,8 +14,6 @@ OrBit is a **motion-sensing device for musicians and performers**. It bridges th
 This product was developed as part of an accelerator-style enterprise development module in my final year at university. **I pitched the business and led the team as CEO** from idea to preparing a full funding campaign. Check it out [here](https://www.kickstarter.com/projects/bitlabs/1326804002?ref=835107&token=2f7e4b06)!
 
 My resposibilities included **project management and app development**. I was working on the desktop client that received sensor and control data from the device, and then relayed it to the digital audio workstation. Furthermore, I  **built a React Native app** that mimicked the physical product in order to showcase the features of OrBit using smartphone sensors and a node.js backend.
-
-Please have a look at the Kickstarter campaign to see how awesome OrBit could be. For all you lazy visitors, I have put a **a lot of GIFs** in the gallery below.
 
 <div class="gallery" data-columns="3">
 	<img src="/images/orbit/1.png" />

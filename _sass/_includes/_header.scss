@@ -13,9 +13,11 @@
 
 	.wrap {
 		max-width: 100%;
+		display: flex;
 
 		@include mq(tabletp) {
 			padding: 0 20px;
+			display: block;
 		}
 	}
 }

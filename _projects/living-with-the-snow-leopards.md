@@ -1,6 +1,6 @@
 ---
 title: 'Living with the Snow Leopards'
-subtitle: 'VR documentary on human-animal conflict in North India'
+subtitle: 'A VR documentary on human-animal conflict in North India'
 date: 2018-12-01 00:00:00
 description: 
 featured_image: '/images/living-with-the-snow-leopards/hero.png'

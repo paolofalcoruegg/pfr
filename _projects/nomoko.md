@@ -1,7 +1,7 @@
 ---
 title: 'Nomoko'
 subtitle: 'Building the Mirror World'
-date: 2018-11-11 00:00:00
+date: 2017-11-11 00:00:00
 description: 
 featured_image: '/images/nomoko/hero.jpg'
 tags: [App Development, UX Design, Market Research, Commercial]

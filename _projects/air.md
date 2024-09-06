@@ -1,7 +1,7 @@
 ---
 title: 'Air'
 subtitle: 'A minimal razor designed for sustainability'
-date: 2016-06-30 00:00:00
+date: 2018-06-30 00:00:00
 description: Placement
 featured_image: '/images/air/hero.jpg'
 tags: [Industrial Design, Sustainability, University]
@@ -20,5 +20,3 @@ The brief for this project was to design a sustainable razor within a circular p
 ![](/images/air/hero.jpg)
 
 Air is made from brass, a beautiful material with excellent technical properties. It neither corrodes in a bathroom setting nor does it fatigue from changing the cartridges. With regards to sustainability, brass is widely recycled and could be sourced from industry offcuts. A Life Cycle Assessment revealed that the projected environmental impact of Air would be **approximately 80% lower (with respect to CO2 and embodied energy) than the benchmarked product** (Shaveclub UK 'Handlebar').
-
-**Note: This project has been awarded the *Design Engineering Innovation Reward* by my the Dyson School of Design Engineering :)**

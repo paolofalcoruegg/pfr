@@ -7,24 +7,26 @@ featured_image: '/images/felfel/hero.jpg'
 tags: [UX Research, Interaction Design, Hardware, Product Design, Frontend, Product Management, Commercial]
 ---
 
-FELFEL offers a fresh food subscription for organisations – at offices, hospitals or schools. The service consists of delivering freshly produced food on a daily basis to the FELFEL fridge. The food is exclusively produced by small, independent and local businesses. Whatever cannot be sold is donated for distribution at food banks.
+FELFEL offers a fresh food subscription for organisations – in offices, hospitals or schools. The service consists of delivering freshly produced food on a daily basis to the FELFEL fridge. The food is exclusively produced by small, independent and local businesses. Whatever cannot be sold is donated for distribution at food banks.
 
 ![](/images/felfel/1.jpg)
 
-At the core of the service is "the FELFEL", which is the name of the smart fridge. I joined the company as a product designer and product owner for UX, so my job is to enable our users to get food out of the FELFEL. With traditional vending machines, you pay anonymously (with cash or card) and then a singular product gets dispensed (or stuck). With FELFEL, once you badge in, the whole fridge opens and you can take out whatever you like.
+At the core of the service is "the FELFEL", which is the name of the smart fridge. I joined the company as a product designer and product owner for UX, so my fundamental function is enabling users to get food out of the FELFEL. With traditional vending machines, you pay anonymously (with cash or card) and then a singular product gets dispensed. With FELFEL, once you badge in, the whole fridge opens and you can take out whatever you like.
 
-The interaction is fundamentally different to other vending machines since it is based on trust: We trust you not to empty the whole fridge and you trust us by setting up a FELFEL account. The problem was that when I joined... it wasn't working: An account could only be set up by someone internal to the the company; it was not clear how to operate the smart fridge; and the existing App was pretty much unusable. (There was an older, physical badging system that worked instead, but that relied on handing out an NFC tag to literally every user.)
+The interaction is fundamentally different to other vending machines since it is based on trust: We trust you not to empty the whole fridge and you trust us by setting up a FELFEL account. When I joined, however, this most essential interaction was not working. An account could only be set up by someone internal to the the company and there was no guidance to the user on how to operate the smart fridge. All in all, the existing mobile app was pretty much unusable. There was an older, physical badging system that worked instead, but that relied on handing out an NFC tag to literally every user.
 
 <iframe src="https://player.vimeo.com/video/789484925?h=ff56df882d" width="640" height="315" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-I completely redesigned the user journey from first contact at the fridge, to setting up the FELFEL Badge on our companion app (iOS and Android) via a QR code on the fridge, to engaging the customer after being a customer for a long time. My rather broad activities included performed large amounts of UX research, A/B testing, conceptualising and winning support for new features, taking over the design of most digital products (not the public website), coding parts of our applications in our React stack, dong physical product design (CAD) and creating new parts for the product, being the first Product team hire and building that team, doing anything from rapid prototyping to small series manufacturing rounds and managing roadmaps and development projects. 
+I completely redesigned the user journey from first contact at the fridge, to setting up the FELFEL Badge on our companion app (running on iOS and Android), to reengaging them after they have been customer for a while.
+
+My activities included doing large amounts of UX research, UI design, A/B testing, conceptualising and winning support for new features, taking over the design of most digital products, coding parts of our applications in our React stack, doing physical product design (CAD) and creating new parts for the fridge, being the first Product team hire and building that team, doing anything from rapid prototyping to small series manufacturing rounds as well as managing roadmaps and development projects. 
 
 <iframe src="https://player.vimeo.com/video/789484908?h=e95095ef14" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-Some of my highlights at FELFEL:
+Some of my highlights at FELFEL were:
 
 * Research, design and product management for all digital and physical touchpoints incl. the iOS and Android apps, the IoT-enabled vending machines and several web apps
-* Cracking the 1'000 FELFEL benchmark!! You can find them all over Switzerland.
+* Cracking the 1'000 FELFEL benchmark! You can find them all over Switzerland.
 * Growing the mobile app user base by 500% to 100k users and replacing the clunky physical badge
 * Helped transitioning the company from the start-up phase to commercial success in its own, new market segment. The concept has been copied several times in the meantime.
 * Redesigned the App to be state-of-the-art with features such as social login, BLE-based authentication at the smart fridge, push notifications, etc. (in collaboration with Apps with Love)
@@ -37,7 +39,7 @@ Some of my highlights at FELFEL:
 * Launching Gavetti, a completely new coffee service
 * Acting as a Product Owner for UX topics and guiding our talented Tech team in what to develop next
 
-As I am still working at FELFEL, here are some (unsorted and random) impressions in a gallery. This can take a while to load...
+Here are some (unsorted and random) impressions in a gallery. This can take a while to load...
 
 <div class="gallery" data-columns="3">
 	<img src="/images/felfel/1.jpg" />
