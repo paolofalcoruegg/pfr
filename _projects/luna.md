@@ -4,7 +4,7 @@ subtitle: 'Ensuring night workers have access to fresh and healthy food'
 date: 2018-01-01 00:00:00
 description: 
 featured_image: '/images/luna/hero.jpg'
-tags: [Experience Design, Ethnographic Research, University]
+tags: [Experience Design, Ethnographic Research]
 ---
 
 Luna aims to improve **access to fresh and healthy food for night workers**. Thanks to recent investments in services such as the night tube, London's night economy is now estimated to be worth £26bn. However, this population is critically underserved in terms of access to food services as most operate during the day only. This design-led innovation project revolved around the need for a more diverse food offering for night workers in London.

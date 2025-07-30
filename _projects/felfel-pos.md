@@ -1,7 +1,7 @@
 ---
 title: 'Smart Fridge Interface'
 subtitle: 'Redesign of a point-of-sale device interface for FELFEL'
-date: 2023-04-01 00:00:00
+date: 2020-02-01 00:00:00
 featured_image: '/images/felfel-pos/hero.jpg'
 tags: [UX/UI Design, Interaction Design, Frontend, Commercial]
 ---

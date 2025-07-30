@@ -4,7 +4,7 @@ subtitle: 'A minimal razor designed for sustainability'
 date: 2018-06-30 00:00:00
 description: Placement
 featured_image: '/images/air/hero.jpg'
-tags: [Industrial Design, Sustainability, University]
+tags: [Industrial Design, Sustainability]
 ---
 
 **Air is a razor that uses as little material as possible**. It features a cartridge change mechanism, which is engaged when its two sides are pressed together. As a result, the hinge unlocks and a new cartridge can be inserted. The simplicity of the mechanism is a step away from the overengineered products that fill the shelves of supermarkets nowadays. A simple product calls for a simple form, giving this design its elegance.
