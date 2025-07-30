@@ -3,7 +3,7 @@ title: 'Sebi'
 subtitle: 'A pull-out desk that works in constrained spaces'
 date: 2025-06-30 00:00:00
 description: Placement
-featured_image: '/images/sebi/hero1.jpeg'
+featured_image: '/images/sebi/hero.jpeg'
 tags: [Industrial Design, Furniture]
 ---
 
