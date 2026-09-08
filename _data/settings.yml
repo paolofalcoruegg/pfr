@@ -24,8 +24,8 @@ grid_settings:
   content_alignment: bottom
 
 contact_settings:
-  form_action: 'https://formspree.io/paolo.rueegg@me.com'
-  confirmation_url: '/thanks'
+  form_action: 'https://formspree.io/f/mrpgokdb'
+  confirmation_url: 'https://www.paolofalcoruegg.com/thanks'
   email_subject: 'Contact form submission'
   send_button_text: 'Send Message'
 
