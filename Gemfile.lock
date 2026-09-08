@@ -10,8 +10,8 @@ GEM
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
     eventmachine (1.2.7-x64-mingw32)
-    ffi (1.9.25)
-    ffi (1.9.25-x64-mingw32)
+    ffi (1.17.4)
+    ffi (1.17.4-arm64-darwin)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
     i18n (0.9.5)
@@ -37,35 +37,41 @@ GEM
     jekyll-watch (2.0.0)
       listen (~> 3.0)
     kramdown (1.17.0)
-    liquid (4.0.0)
-    listen (3.1.5)
-      rb-fsevent (~> 0.9, >= 0.9.4)
-      rb-inotify (~> 0.9, >= 0.9.7)
-      ruby_dep (~> 1.2)
+    liquid (4.0.4)
+    listen (3.10.0)
+      logger
+      rb-fsevent (~> 0.10, >= 0.10.3)
+      rb-inotify (~> 0.9, >= 0.9.10)
+    logger (1.7.0)
     mercenary (0.3.6)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
+    psych (3.3.4)
     public_suffix (3.0.3)
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
+    rexml (3.4.4)
     rouge (3.3.0)
-    ruby_dep (1.5.0)
     safe_yaml (1.0.4)
     sass (3.6.0)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
+    webrick (1.9.2)
 
 PLATFORMS
-  ruby
+  arm64-darwin-25
   x64-mingw32
 
 DEPENDENCIES
   jekyll (= 3.8.4)
   jekyll-paginate
   jekyll-sitemap
+  psych (~> 3.3)
+  rexml (~> 3.2)
+  webrick (~> 1.8)
 
 BUNDLED WITH
-   1.16.1
+  4.0.9
